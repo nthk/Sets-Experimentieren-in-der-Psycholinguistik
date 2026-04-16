@@ -62,8 +62,7 @@ die Betreuungspersonen wichtig war.
 ## Kranführer:in, Bedingung A
 
 ![KranfuehrerA](assets/images/KranA.png) <br>
-Auf der Baustelle wurde präzise gearbeitet, weil eine besonders ruhige Reaktion in Not-
-fällen für den Kranführer wichtig war.
+Auf der Baustelle wurde präzise gearbeitet, weil eine besonders ruhige Reaktion in Notfällen für den Kranführer wichtig war.
 
 ## Kranführer:in, Bedingung B
 
@@ -74,14 +73,12 @@ für die Kranführenden wichtig war.
 ## Nagelpfleger:in, Bedingung C
 
 ![ManikuereC](assets/images/ManiC.png) <br>
-Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders geduldige Betreu-
-ung für den Manikürer erwartet wurde.
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders geduldige Betreuung für den Manikürer erwartet wurde.
 
 ## Nagelpfleger:in, Bedingung D
 
 ![ManikuereD](assets/images/ManiD.png) <br>
-Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders kreative Herange-
-hensweise für die Nagelpflegenden erwartet wurde.
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders kreative Herangehensweise für die Nagelpflegenden erwartet wurde.
 
 ## Rennfahrer:in, Bedingung A
 
@@ -128,8 +125,7 @@ Entscheidung für den LKW-Fahrer erforderlich war.
 ## Truckerfahrer:in, Bedingung B
 
 ![TruckB](assets/images/TruckB.png) <br>
-An der Raststelle musste schnell gehandelt werden, weil eine besonders fähige Entschei-
-dung für die LKW-Fahrenden erforderlich war.
+An der Raststelle musste schnell gehandelt werden, weil eine besonders fähige Entscheidung für die LKW-Fahrenden erforderlich war.
 
 ---
 
