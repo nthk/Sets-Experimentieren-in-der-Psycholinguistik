@@ -27,8 +27,7 @@ die Bergbauarbeitenden notwendig war.
 ## Cheerleader:in, Bedingung C
 
 ![CheerleaderC](assets/images/CheerleaderC.png) <br>
-Vor dem Auftritt war die Stimmung ausgelassen, weil eine besonders mitfühlende Präsen-
-tation für den Cheerleader entscheidend war.
+Vor dem Auftritt war die Stimmung ausgelassen, weil eine besonders mitfühlende Präsentation für den Cheerleader entscheidend war.
 
 ## Cheerleader:in, Bedingung D
 
