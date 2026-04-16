@@ -3,9 +3,7 @@
 # Experimentelle Items und Stimuli
 
 Hier werden alle experimentellen Items sowie Filler-Stimuli dargestellt.
-Jedes Item wird als Screenshot gezeigt, gefolgt vom zugehörigen Stimulus-Satz.
-
----
+Unter jedem Item wird der zugehörige Satz gezeigt. Die Bedingungen ergeben sich wie folgt:
 
 | Bedingung | Beschreibung                                                     |
 | --------- | ---------------------------------------------------------------- |
@@ -16,108 +14,105 @@ Jedes Item wird als Screenshot gezeigt, gefolgt vom zugehörigen Stimulus-Satz.
 
 ---
 
-## Bergarbeiter:in, Bedingung A:
+## Bergarbeiter:in, Bedingung A
 
 ![BergarbeiterA](assets/images/BergarbeiterA.png)
-Unter Tage ging es angespannt zu, weil eine besonders furchtlose Vorgehensweise für den Bergarbeiter notwendig war.
+Unter Tage war die Situation angespannt, weil für den Bergarbeiter eine besonders furchtlose Vorgehensweise erforderlich war.
 
-## Bergarbeiter:in, Bedienung B: 
+## Bergarbeiter:in, Bedingung B
 
 ![BergarbeiterB](assets/images/BergarbeiterB.png)
-Unter Tage ging es angespannt zu, weil eine besonders hilfsbereite Vorgehensweise für die Bergbauarbeitenden notwendig war.
+Unter Tage war die Situation angespannt, weil für die Bergbauarbeitenden eine besonders hilfsbereite Vorgehensweise erforderlich war.
 
-
-## Cheerleader:in, Bedingung C: 
+## Cheerleader:in, Bedingung C
 
 ![CheerleaderC](assets/images/CheerleaderC.png)
-Vor dem Auftritt war die Stimmung ausgelassen, weil eine besonders mitfühlende Präsentation für den Cheerleader entscheidend war.
+Vor dem Auftritt war die Stimmung ausgelassen, weil für den Cheerleader eine besonders mitfühlende Präsentation entscheidend war.
 
-## Cheerleader:in, Bedingung D: 
+## Cheerleader:in, Bedingung D
 
 ![CheerleaderD](assets/images/CheerleaderD.png)
-Vor dem Auftritt war die Stimmung lebhaft, weil eine besonders wettbewerbsorientierte Performance für die Cheerleader entscheidend war.
+Vor dem Auftritt war die Stimmung lebhaft, weil für die Cheerleader eine besonders wettbewerbsorientierte Performance entscheidend war.
 
-
-## Geburtshelfer:in, Bedingung C:
+## Geburtshelfer:in, Bedingung C
 
 ![GeburtshelferC](assets/images/GeburtshelferC.png)
-Im Kreißsaal wurde ruhig gearbeitet, weil eine besonders fürsorgliche Unterstützung für den Geburtshelfer entscheidend war.
+Im Kreißsaal wurde ruhig gearbeitet, weil für den Geburtshelfer eine besonders fürsorgliche Unterstützung entscheidend war.
 
-## Geburtshelfer:in, Bedingung D:
+## Geburtshelfer:in, Bedingung D
 
 ![GeburtshelferD](assets/images/GeburtshelferD.png)
-Im Kreißsaal wurde konzentriert gearbeitet, weil eine besonders geübte Unterstützung für die Geburtshelfenden entscheidend war.
+Im Kreißsaal wurde konzentriert gearbeitet, weil für die Geburtshelfenden eine besonders geübte Unterstützung entscheidend war.
 
-## Kinderbetreuer:in, Bedingung C:
+## Kinderbetreuer:in, Bedingung C
 
 ![KinderbetreuerC](assets/images/KinderbetreuerC.png)
-Im Gruppenraum ging es harmonisch zu, weil eine besonders kommunikative Haltung für den Kinderbetreuer wichtig war.
+Im Gruppenraum herrschte eine harmonische Atmosphäre, weil für den Kinderbetreuer eine besonders kommunikative Haltung wichtig war.
 
-## Kinderbetreuer:in, Bedingung D:
+## Kinderbetreuer:in, Bedingung D
 
 ![KinderbetreuerD](assets/images/KinderbetreuerD.png)
-Im Gruppenraum ging es harmonisch zu, weil eine besonders freundliche Betreuung für die Betreuungspersonen wichtig war.
+Im Gruppenraum herrschte eine harmonische Atmosphäre, weil für die Betreuungspersonen eine besonders freundliche Betreuung wichtig war.
 
-## Kranführer:in, Bedingung A:
+## Kranführer:in, Bedingung A
 
-![KranfuehrerA](assets/images/KranfuehrerA.png)
-Auf der Baustelle wurde präzise gearbeitet, weil eine besonders ruhige Reaktion in Notfällen für den Kranführer wichtig war.
+![KranfuehrerA](assets/images/KranführerA.png)
+Auf der Baustelle wurde präzise gearbeitet, weil für den Kranführer eine besonders ruhige Reaktion in Notfällen wichtig war.
 
-## Kranführer:in, Bedingung B:
+## Kranführer:in, Bedingung B
 
-![KranfuehrerB](assets/images/KranfuehrerB.png)
-Auf der Baustelle wurde präzise gearbeitet, weil eine besonders zuverlässige Arbeitsweise für die Kranführenden wichtig war.
+![KranfuehrerB](assets/images/KranführerB.png)
+Auf der Baustelle wurde präzise gearbeitet, weil für die Kranführenden eine besonders zuverlässige Arbeitsweise wichtig war.
 
+## Nagelpfleger:in, Bedingung C
 
-## Nagelpfleger:in, Bedingung C:
+![ManikuereC](assets/images/ManiküreC.png)
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil für den Manikürer eine besonders geduldige Betreuung erwartet wurde.
 
-![ManikuereC](assets/images/ManikuereC.png)
-Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders geduldige Betreuung für den Manikürer erwartet wurde.
+## Nagelpfleger:in, Bedingung D
 
-## Nagelpfleger:in, Bedingung D:
+![ManikuereD](assets/images/ManiküreD.png)
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil für die Nagelpflegenden eine besonders kreative Herangehensweise erwartet wurde.
 
-![ManikuereD](assets/images/ManikuereD.png)
-Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders kreative Herangehensweise für die Nagelpflegenden erwartet wurde.
-
-## Rennfahrer:in, Bedingung A:
+## Rennfahrer:in, Bedingung A
 
 ![RennfahrerA](assets/images/RennfahrerA.png)
-In der Boxengasse ging es hektisch zu, weil eine besonders aggressive Strategie für den Rennfahrer geplant war.
+In der Boxengasse ging es hektisch zu, weil für den Rennfahrer eine besonders aggressive Strategie geplant war.
 
-## Rennfahrer:in, Bedingung B:
+## Rennfahrer:in, Bedingung B
 
 ![RennfahrerB](assets/images/RennfahrerB.png)
-In der Boxengasse ging es hektisch zu, weil eine besonders verlässliche Strategie für die Rennfahrenden geplant war.
+In der Boxengasse ging es hektisch zu, weil für die Rennfahrenden eine besonders verlässliche Strategie geplant war.
 
-## Sekretär:in, Bedingung C:
+## Sekretär:in, Bedingung C
 
 ![SekretaereC](assets/images/SecretaryC.png)
-Im Büro wurde viel abgestimmt, weil eine besonders verständnisvolle Arbeitsweise für den Sekretär notwendig war.
+Im Büro wurde viel abgestimmt, weil für den Sekretär eine besonders verständnisvolle Arbeitsweise notwendig war.
 
-## Sekretär:in, Bedingung D:
+## Sekretär:in, Bedingung D
 
 ![SekretaereD](assets/images/SecretaryD.png)
-Im Büro wurde viel abgestimmt, weil eine besonders hilfreiche Arbeitsweise für die Büroangestellten notwendig war.
+Im Büro wurde viel abgestimmt, weil für die Büroangestellten eine besonders hilfreiche Arbeitsweise notwendig war.
 
-## Straßenarbeiter:in, Bedingung A:
+## Straßenarbeiter:in, Bedingung A
 
 ![StrassenarbeiterA](assets/images/StraßenarbeiterA.png)
-Auf der Baustelle lief alles koordiniert, weil eine besonders selbstständige Arbeitsweise für den Straßenbauarbeiter erwartet wurde.
+Auf der Baustelle lief alles koordiniert, weil für den Straßenbauarbeiter eine besonders selbstständige Arbeitsweise erwartet wurde.
 
-## Straßenarbeiter:in, Bedingung B:
+## Straßenarbeiter:in, Bedingung B
 
 ![StrassenarbeiterB](assets/images/StraßenarbeiterB.png)
-Auf der Baustelle lief alles dynamisch ab, weil eine besonders aktive Arbeitsweise für die Straßenbauarbeitenden erwartet wurde.
+Auf der Baustelle lief alles dynamisch ab, weil für die Straßenbauarbeitenden eine besonders aktive Arbeitsweise erwartet wurde.
 
-## Truckerfahrer:in, Bedingung A:
+## Truckerfahrer:in, Bedingung A
 
 ![TruckA](assets/images/TruckA.png)
-An der Raststelle musste schnell gehandelt werden, weil eine besonders entschlossene Entscheidung für den LKW-Fahrer erforderlich war.
+An der Raststätte musste schnell gehandelt werden, weil für den LKW-Fahrer eine besonders entschlossene Entscheidung erforderlich war.
 
-## Truckerfahrer:in, Bedingung B:
+## Truckerfahrer:in, Bedingung B
 
 ![TruckB](assets/images/TruckB.png)
-An der Raststelle musste schnell gehandelt werden, weil eine besonders fähige Entscheidung für die LKW-Fahrenden erforderlich war.
+An der Raststätte musste schnell gehandelt werden, weil für die LKW-Fahrenden eine besonders fähige Entscheidung erforderlich war.
 
 ---
 
@@ -129,7 +124,7 @@ Am Bahnhof wurde aufmerksam orientiert, weil eine besonders präzise Abstimmung 
 ## Filler 2
 
 ![Filler2](assets/images/Filler/Filler2.png)
-Auf der Straßewurde hektisch aufgehoben, weil eine besonders strukturierte Anpassung der Materialien notwendig war.
+Auf der Straße wurde hektisch gehandelt, weil eine besonders strukturierte Anpassung der Materialien notwendig war.
 
 ## Filler 3
 
