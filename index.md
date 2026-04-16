@@ -1,159 +1,161 @@
 # Experimentelle Items und Stimuli
 
-Willkommen!
-Auf dieser Seite sind alle experimentellen Items sowie Filler-Stimuli dargestellt.
+Hier werden alle experimentellen Items sowie Filler-Stimuli dargestellt.
 Jedes Item wird als Screenshot gezeigt, gefolgt vom zugehörigen Stimulus-Satz.
 
 ---
 
-## Item 1
+## Bergarbeiter:in, Bedingung A:
 
 ![BergarbeiterA](assets/images/BergarbeiterA.png)
-Stimulus-Satz hier einfügen.
+Unter Tage ging es angespannt zu, weil eine besonders furchtlose Vorgehensweise für den Bergarbeiter notwendig war.
 
-## Item 2
+## Bergarbeiter:in, Bedienung B: 
 
 ![BergarbeiterB](assets/images/BergarbeiterB.png)
-Stimulus-Satz hier einfügen.
+Unter Tage ging es angespannt zu, weil eine besonders hilfsbereite Vorgehensweise für die Bergbauarbeitenden notwendig war.
 
-## Item 3
+
+## Cheerleader:in, Bedingung C: 
 
 ![CheerleaderC](assets/images/CheerleaderC.png)
-Stimulus-Satz hier einfügen.
+Vor dem Auftritt war die Stimmung ausgelassen, weil eine besonders mitfühlende Präsentation für den Cheerleader entscheidend war.
 
-## Item 4
+## Cheerleader:in, Bedingung D: 
 
 ![CheerleaderD](assets/images/CheerleaderD.png)
-Stimulus-Satz hier einfügen.
+Vor dem Auftritt war die Stimmung lebhaft, weil eine besonders wettbewerbsorientierte Performance für die Cheerleader entscheidend war.
 
-## Item 5
+
+## Geburtshelfer:in, Bedingung C:
 
 ![GeburtshelferC](assets/images/GeburtshelferC.png)
-Stimulus-Satz hier einfügen.
+Im Kreißsaal wurde ruhig gearbeitet, weil eine besonders fürsorgliche Unterstützung für den Geburtshelfer entscheidend war.
 
-## Item 6
+## Geburtshelfer:in, Bedingung D:
 
 ![GeburtshelferD](assets/images/GeburtshelferD.png)
-Stimulus-Satz hier einfügen.
+Im Kreißsaal wurde konzentriert gearbeitet, weil eine besonders geübte Unterstützung für die Geburtshelfenden entscheidend war.
 
-## Item 7
+## Kinderbetreuer:in, Bedingung C:
 
 ![KinderbetreuerC](assets/images/KinderbetreuerC.png)
-Stimulus-Satz hier einfügen.
+Im Gruppenraum ging es harmonisch zu, weil eine besonders kommunikative Haltung für den Kinderbetreuer wichtig war.
 
-## Item 8
+## Kinderbetreuer:in, Bedingung D:
 
 ![KinderbetreuerD](assets/images/KinderbetreuerD.png)
-Stimulus-Satz hier einfügen.
+Im Gruppenraum ging es harmonisch zu, weil eine besonders freundliche Betreuung für die Betreuungspersonen wichtig war.
 
-## Item 9
+## Kranführer:in, Bedingung A:
 
 ![KranfuehrerA](assets/images/KranfuehrerA.png)
-Stimulus-Satz hier einfügen.
+Auf der Baustelle wurde präzise gearbeitet, weil eine besonders ruhige Reaktion in Notfällen für den Kranführer wichtig war.
 
-## Item 10
+## Kranführer:in, Bedingung B:
 
 ![KranfuehrerB](assets/images/KranfuehrerB.png)
-Stimulus-Satz hier einfügen.
+Auf der Baustelle wurde präzise gearbeitet, weil eine besonders zuverlässige Arbeitsweise für die Kranführenden wichtig war.
 
-## Item 11
+
+## Nagelpfleger:in, Bedingung C:
 
 ![ManikuereC](assets/images/ManikuereC.png)
-Stimulus-Satz hier einfügen.
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders geduldige Betreuung für den Manikürer erwartet wurde.
 
-## Item 12
+## Nagelpfleger:in, Bedingung D:
 
 ![ManikuereD](assets/images/ManikuereD.png)
-Stimulus-Satz hier einfügen.
+Im Nagelstudio herrschte eine ruhige Atmosphäre, weil eine besonders kreative Herangehensweise für die Nagelpflegenden erwartet wurde.
 
-## Item 13
+## Rennfahrer:in, Bedingung A:
 
 ![RennfahrerA](assets/images/RennfahrerA.png)
-Stimulus-Satz hier einfügen.
+In der Boxengasse ging es hektisch zu, weil eine besonders aggressive Strategie für den Rennfahrer geplant war.
 
-## Item 14
+## Rennfahrer:in, Bedingung B:
 
 ![RennfahrerB](assets/images/RennfahrerB.png)
-Stimulus-Satz hier einfügen.
+In der Boxengasse ging es hektisch zu, weil eine besonders verlässliche Strategie für die Rennfahrenden geplant war.
 
-## Item 15
+## Sekretär:in, Bedingung C:
 
-![SekretaereC](assets/images/SekretäreC.png)
-Stimulus-Satz hier einfügen.
-## Item 16
+![SekretaereC](assets/images/SecretaryC.png)
+Im Büro wurde viel abgestimmt, weil eine besonders verständnisvolle Arbeitsweise für den Sekretär notwendig war.
 
-![SekretaereD](assets/images/SekretäreD.png)
-Stimulus-Satz hier einfügen.
+## Sekretär:in, Bedingung D:
 
-## Item 17
+![SekretaereD](assets/images/SecretaryD.png)
+Im Büro wurde viel abgestimmt, weil eine besonders hilfreiche Arbeitsweise für die Büroangestellten notwendig war.
+
+## Straßenarbeiter:in, Bedingung A:
 
 ![StrassenarbeiterA](assets/images/StraßenarbeiterA.png)
-Stimulus-Satz hier einfügen.
+Auf der Baustelle lief alles koordiniert, weil eine besonders selbstständige Arbeitsweise für den Straßenbauarbeiter erwartet wurde.
 
-## Item 18
+## Straßenarbeiter:in, Bedingung B:
 
 ![StrassenarbeiterB](assets/images/StraßenarbeiterB.png)
-Stimulus-Satz hier einfügen.
+Auf der Baustelle lief alles dynamisch ab, weil eine besonders aktive Arbeitsweise für die Straßenbauarbeitenden erwartet wurde.
 
-## Item 19
+## Truckerfahrer:in, Bedingung A:
 
 ![TruckA](assets/images/TruckA.png)
-Stimulus-Satz hier einfügen.
+An der Raststelle musste schnell gehandelt werden, weil eine besonders entschlossene Entscheidung für den LKW-Fahrer erforderlich war.
 
-## Item 20
+## Truckerfahrer:in, Bedingung B:
 
 ![TruckB](assets/images/TruckB.png)
-Stimulus-Satz hier einfügen.
+An der Raststelle musste schnell gehandelt werden, weil eine besonders fähige Entscheidung für die LKW-Fahrenden erforderlich war.
 
 ---
 
 ## Filler 1
 
 ![Filler1](assets/images/Filler/Filler1.png)
-Stimulus-Satz hier einfügen.
+Am Bahnhof wurde aufmerksam orientiert, weil eine besonders präzise Abstimmung der Informationen erforderlich war.
 
 ## Filler 2
 
 ![Filler2](assets/images/Filler/Filler2.png)
-Stimulus-Satz hier einfügen.
+Auf der Straßewurde hektisch aufgehoben, weil eine besonders strukturierte Anpassung der Materialien notwendig war.
 
 ## Filler 3
 
 ![Filler3](assets/images/Filler/Filler3.png)
-Stimulus-Satz hier einfügen.
+In einer technischen Umgebung wurde sorgfältig aufgebaut, weil eine besonders exakte Abstimmung der Komponenten entscheidend war.
 
 ## Filler 4
 
 ![Filler4](assets/images/Filler/Filler4.png)
-Stimulus-Satz hier einfügen.
+In einem Kontrollraum wurde feinjustiert, weil eine besonders präzise Kalibrierung der Geräte erforderlich war.
 
 ## Filler 5
 
 ![Filler5](assets/images/Filler/Filler5.png)
-Stimulus-Satz hier einfügen.
+Im Lager wurde koordiniert gearbeitet, weil eine besonders organisierte Verteilung der Aufgaben notwendig war.
 
 ## Filler 6
 
 ![Filler6](assets/images/Filler/Filler6.png)
-Stimulus-Satz hier einfügen.
+Im Veranstaltungssaal wurde geprüft, weil eine besonders kontrollierte Regulierung der Tonanlage erwartet wurde.
 
 ## Filler 7
 
 ![Filler7](assets/images/Filler/Filler7.png)
-Stimulus-Satz hier einfügen.
+Im Leseraum wurde neu angeordnet, weil eine besonders ausgewogene Platzierung der Sitzmöglichkeiten wichtig war.
 
 ## Filler 8
 
 ![Filler8](assets/images/Filler/Filler8.png)
-Stimulus-Satz hier einfügen.
+Am Automaten wurde analysiert, weil eine besonders gründliche Überprüfung der Anzeige erforderlich war.
 
 ## Filler 9
 
 ![Filler9](assets/images/Filler/Filler9.png)
-Stimulus-Satz hier einfügen.
+Im Flur wurde inspiziert, weil eine besonders systematische Einschätzung der Luftzirkulation notwendig war.
 
 ## Filler 10
 
 ![Filler10](assets/images/Filler/Filler10.png)
-Stimulus-Satz hier einfügen.
-
+Im Zugabteil wurde reagiert, weil eine besonders angemessene Anpassung an neue Informationen erforderlich war.
