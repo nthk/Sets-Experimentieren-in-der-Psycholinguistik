@@ -56,22 +56,22 @@ Im Gruppenraum herrschte eine harmonische Atmosphäre, weil für die Betreuungsp
 
 ## Kranführer:in, Bedingung A
 
-![KranfuehrerA](assets/images/KranführerA.png)
+![KranfuehrerA](assets/images/KranA.png)
 Auf der Baustelle wurde präzise gearbeitet, weil für den Kranführer eine besonders ruhige Reaktion in Notfällen wichtig war.
 
 ## Kranführer:in, Bedingung B
 
-![KranfuehrerB](assets/images/KranführerB.png)
+![KranfuehrerB](assets/images/KranB.png)
 Auf der Baustelle wurde präzise gearbeitet, weil für die Kranführenden eine besonders zuverlässige Arbeitsweise wichtig war.
 
 ## Nagelpfleger:in, Bedingung C
 
-![ManikuereC](assets/images/ManiküreC.png)
+![ManikuereC](assets/images/ManiC.png)
 Im Nagelstudio herrschte eine ruhige Atmosphäre, weil für den Manikürer eine besonders geduldige Betreuung erwartet wurde.
 
 ## Nagelpfleger:in, Bedingung D
 
-![ManikuereD](assets/images/ManiküreD.png)
+![ManikuereD](assets/images/ManiD.png)
 Im Nagelstudio herrschte eine ruhige Atmosphäre, weil für die Nagelpflegenden eine besonders kreative Herangehensweise erwartet wurde.
 
 ## Rennfahrer:in, Bedingung A
