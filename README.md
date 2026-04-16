@@ -1,7 +1,7 @@
 # Experimentelle Items und Filler
 
 Hier werden alle experimentellen Items sowie Filler-Stimuli dargestellt.
-Unter jedem Item wird der zugehörige Satz gezeigt. Die Bedingungen ergeben sich wie folgt:
+Unter jedem Item wird der zugehörige Satz gezeigt. Die Bedingungen sind die folgenden:
 
 | Bedingung | Beschreibung                                                     |
 | --------- | ---------------------------------------------------------------- |
