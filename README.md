@@ -1,4 +1,4 @@
-# Experimentelle Items und Stimuli
+# Experimentelle Items und Filler
 
 Hier werden alle experimentellen Items sowie Filler-Stimuli dargestellt.
 Unter jedem Item wird der zugehörige Satz gezeigt. Die Bedingungen ergeben sich wie folgt:
