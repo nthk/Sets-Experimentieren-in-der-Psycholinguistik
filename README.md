@@ -1,5 +1,3 @@
-# Sets-Experimentieren-in-der-Psycholinguistik
-
 # Experimentelle Items und Stimuli
 
 Hier werden alle experimentellen Items sowie Filler-Stimuli dargestellt.
