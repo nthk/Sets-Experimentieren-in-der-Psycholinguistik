@@ -78,22 +78,22 @@ Stimulus-Satz hier einfügen.
 
 ## Item 15
 
-![SekretaereC](assets/images/SekretaereC.png)
+![SekretaereC](assets/images/SekretäreC.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 16
 
-![SekretaereD](assets/images/SekretaereD.png)
+![SekretaereD](assets/images/SekretäreD.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 17
 
-![StrassenarbeiterA](assets/images/StrassenarbeiterA.png)
+![StrassenarbeiterA](assets/images/StraßenarbeiterA.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 18
 
-![StrassenarbeiterB](assets/images/StrassenarbeiterB.png)
+![StrassenarbeiterB](assets/images/StraßenarbeiterB.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 19
