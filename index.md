@@ -80,7 +80,6 @@ Stimulus-Satz hier einfügen.
 
 ![SekretaereC](assets/images/SekretäreC.png)
 Stimulus-Satz hier einfügen.
-
 ## Item 16
 
 ![SekretaereD](assets/images/SekretäreD.png)
