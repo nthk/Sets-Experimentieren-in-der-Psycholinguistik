@@ -48,22 +48,22 @@ Stimulus-Satz hier einfügen.
 
 ## Item 9
 
-![KranführerA](assets/images/KranführerA.png)
+![KranfuehrerA](assets/images/KranfuehrerA.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 10
 
-![KranführerB](assets/images/KranführerB.png)
+![KranfuehrerB](assets/images/KranfuehrerB.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 11
 
-![ManiküreC](assets/images/ManiküreC.png)
+![ManikuereC](assets/images/ManikuereC.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 12
 
-![ManiküreD](assets/images/ManiküreD.png)
+![ManikuereD](assets/images/ManikuereD.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 13
@@ -78,22 +78,22 @@ Stimulus-Satz hier einfügen.
 
 ## Item 15
 
-![SekretäreC](assets/images/SekretäreC.png)
+![SekretaereC](assets/images/SekretaereC.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 16
 
-![SekretäreD](assets/images/SekretäreD.png)
+![SekretaereD](assets/images/SekretaereD.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 17
 
-![StraßenarbeiterA](assets/images/StraßenarbeiterA.png)
+![StrassenarbeiterA](assets/images/StrassenarbeiterA.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 18
 
-![StraßenarbeiterB](assets/images/StraßenarbeiterB.png)
+![StrassenarbeiterB](assets/images/StrassenarbeiterB.png)
 Stimulus-Satz hier einfügen.
 
 ## Item 19
@@ -110,50 +110,51 @@ Stimulus-Satz hier einfügen.
 
 ## Filler 1
 
-![Filler1](assets/images/Filler1.png)
+![Filler1](assets/images/Filler/Filler1.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 2
 
-![Filler2](assets/images/Filler2.png)
+![Filler2](assets/images/Filler/Filler2.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 3
 
-![Filler3](assets/images/Filler3.png)
+![Filler3](assets/images/Filler/Filler3.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 4
 
-![Filler4](assets/images/Filler4.png)
+![Filler4](assets/images/Filler/Filler4.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 5
 
-![Filler5](assets/images/Filler5.png)
+![Filler5](assets/images/Filler/Filler5.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 6
 
-![Filler6](assets/images/Filler6.png)
+![Filler6](assets/images/Filler/Filler6.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 7
 
-![Filler7](assets/images/Filler7.png)
+![Filler7](assets/images/Filler/Filler7.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 8
 
-![Filler8](assets/images/Filler8.png)
+![Filler8](assets/images/Filler/Filler8.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 9
 
-![Filler9](assets/images/Filler9.png)
+![Filler9](assets/images/Filler/Filler9.png)
 Stimulus-Satz hier einfügen.
 
 ## Filler 10
 
-![Filler10](assets/images/Filler10.png)
+![Filler10](assets/images/Filler/Filler10.png)
 Stimulus-Satz hier einfügen.
+
